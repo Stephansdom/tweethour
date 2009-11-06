@@ -18,6 +18,15 @@ tweethour.pl will DONG like a church clock by default. If you provide the third 
 
 There's also a shell script version (tweethour.sh) which has no possibility to change the DONG. This script's source comes without readability.
 
+=head1 SETTING UP tweethour FOR YOUR FAVOURITE CHURCH
+
+First, you have to create a twitter account like @lambertikirche, then clone this git repo (git://github.com/memowe/tweethour.git) and create a cron job that fire's tweethour.pl or tweethour.sh for your church's twitter account every hour like this:
+
+    # m h  dom mon dow   command
+      0 *  *   *   *     /home/memowe/tweethour/tweethour.sh name password
+
+Done.
+
 =head1 PREREQUISITES FOR tweethour.pl
 
 =over 4
