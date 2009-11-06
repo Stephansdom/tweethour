@@ -64,5 +64,5 @@ Released under the MIT license, see MIT-LICENSE.
 [2]: http://twitter.com/frauenkirche_dd
 [3]: http://twitter.com/koelner_dom
 
-[tweetme]: http://twitter.com/memowe
+[tweetme]: http://twitter.com/?status=@memowe%20Hi,%20please%20add%20my%20church%20to%20the%20tweethour%20README%20page:
 [bbc]: http://twitter.com/big_ben_clock
