@@ -28,7 +28,7 @@ First, you have to create a twitter account like @lambertikirche, then clone [th
 
 Done.
 
-If you set up your church, please let me know ([@memowe][memowe])!
+If you set up your church, please [let me know][tweetme]!
 
 CHURCHES THAT DONG ON TWITTER
 -----------------------------
@@ -37,7 +37,7 @@ CHURCHES THAT DONG ON TWITTER
 * [@frauenkirche_dd][2] (Frauenkirche Dresden, Germany)
 * [@koelner_dom][3] (Hohe Domkirche St. Peter und Maria, Köln, Germany)
 
-If you set up your church, please let me know ([@memowe][memowe])!
+If you set up your church, please [let me know][tweetme]!
 
 PREREQUISITES FOR tweethour.pl
 ------------------------------
@@ -55,7 +55,8 @@ AUTHOR AND LICENSE
 
 tweethour was inspired by [@big_ben_clock][bbc]. Thanks!
 
-Copyright (c) 2009 Mirko Westermeier (mail@memowe.de)
+Copyright (c) 2009 Mirko Westermeier  
+([mail@memowe.de](mailto:mail@memowe.de), [@memowe](http://twitter.com/memowe), [mirko.westermeier.de](http://mirko.westermeier.de))
 
 Released under the MIT license, see MIT-LICENSE.
 
@@ -63,5 +64,5 @@ Released under the MIT license, see MIT-LICENSE.
 [2]: http://twitter.com/frauenkirche_dd
 [3]: http://twitter.com/koelner_dom
 
-[memowe]: http://twitter.com/memowe
+[tweetme]: http://twitter.com/memowe
 [bbc]: http://twitter.com/big_ben_clock
