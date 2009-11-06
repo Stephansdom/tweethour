@@ -21,7 +21,7 @@ There's also a shell script version (tweethour.sh) which has no possibility to c
 SETTING UP tweethour FOR YOUR FAVOURITE CHURCH
 ----------------------------------------------
 
-First, you have to create a twitter account like @lambertikirche, then clone this git repo (git://github.com/memowe/tweethour.git) and create a cron job that fire's tweethour.pl or tweethour.sh for your church's twitter account every hour like this:
+First, you have to create a twitter account like @lambertikirche, then clone [this git repo](git://github.com/memowe/tweethour.git) and create a cron job that fire's tweethour.pl or tweethour.sh for your church's twitter account every hour like this:
 
     # m h  dom mon dow   command
       0 *  *   *   *     /home/memowe/tweethour/tweethour.sh name password
