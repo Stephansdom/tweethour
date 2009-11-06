@@ -49,6 +49,9 @@ command line argument C<BLING>, it will BLING instead of DONG.
 
 =back
 
-=head1 AUTHOR
+=head1 AUTHOR AND LICENSE
 
-Mirko Westermeier (mail@memowe.de)
+Copyright (c) 2009 Mirko Westermeier (mail@memowe.de)
+
+Released under the MIT license, see MIT-LICENSE.
+

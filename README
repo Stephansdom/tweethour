@@ -18,7 +18,9 @@ PREREQUISITES
     perl
     Net::Twitter::Lite
 
-AUTHOR
+AUTHOR AND LICENSE
 
-    Mirko Westermeier (mail@memowe.de)
+    Copyright (c) 2009 Mirko Westermeier (mail@memowe.de)
+
+    Released under the MIT license, see MIT-LICENSE.
 
