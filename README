@@ -4,19 +4,31 @@ NAME
 
 USAGE
 
-        perl tweethour.pl mytwittername mytwitterpassword
+        ./tweethour.pl mytwittername mytwitterpassword
 
     or
 
-        perl tweethour.pl mytwittername mytwitterpassword BLING
+        ./tweethour.pl mytwittername mytwitterpassword BLING
 
-    tweethour will DONG like a church clock by default. If you provide the
-    third command line argument "BLING", it will BLING instead of DONG.
+    or
 
-PREREQUISITES
+        ./tweethour.sh mytwittername mytwitterpassword
+
+    tweethour.pl will DONG like a church clock by default. If you provide
+    the third command line argument "BLING", it will BLING instead of DONG.
+
+    There's also a shell script version (tweethour.sh) which has no
+    possibility to change the DONG. This script's source comes without
+    readability.
+
+PREREQUISITES FOR tweethour.pl
 
     perl
     Net::Twitter::Lite
+
+PREREQUISITES FOR tweethour.sh
+
+    curl
 
 AUTHOR AND LICENSE
 

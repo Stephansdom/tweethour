@@ -24,34 +24,3 @@ warn "$@\n" if $@;
 
 __END__
 
-=head1 NAME
-
-tweethour.pl - tweets the hour like a church clock
-
-=head1 USAGE
-
-    perl tweethour.pl mytwittername mytwitterpassword
-
-or
-
-    perl tweethour.pl mytwittername mytwitterpassword BLING
-
-tweethour will DONG like a church clock by default. If you provide the third
-command line argument C<BLING>, it will BLING instead of DONG.
-
-=head1 PREREQUISITES
-
-=over 4
-
-=item perl
-
-=item Net::Twitter::Lite
-
-=back
-
-=head1 AUTHOR AND LICENSE
-
-Copyright (c) 2009 Mirko Westermeier (mail@memowe.de)
-
-Released under the MIT license, see MIT-LICENSE.
-

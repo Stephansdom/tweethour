@@ -1,0 +1,44 @@
+=head1 NAME
+
+tweethour.pl - tweets the hour like a church clock
+
+=head1 USAGE
+
+    ./tweethour.pl mytwittername mytwitterpassword
+
+or
+
+    ./tweethour.pl mytwittername mytwitterpassword BLING
+
+or
+
+    ./tweethour.sh mytwittername mytwitterpassword
+
+tweethour.pl will DONG like a church clock by default. If you provide the third command line argument C<BLING>, it will BLING instead of DONG.
+
+There's also a shell script version (tweethour.sh) which has no possibility to change the DONG. This script's source comes without readability.
+
+=head1 PREREQUISITES FOR tweethour.pl
+
+=over 4
+
+=item perl
+
+=item Net::Twitter::Lite
+
+=back
+
+=head1 PREREQUISITES FOR tweethour.sh
+
+=over 4
+
+=item curl
+
+=back
+
+=head1 AUTHOR AND LICENSE
+
+Copyright (c) 2009 Mirko Westermeier (mail@memowe.de)
+
+Released under the MIT license, see MIT-LICENSE.
+
