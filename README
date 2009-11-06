@@ -1,0 +1,24 @@
+NAME
+
+    tweethour.pl - tweets the hour like a church clock
+
+USAGE
+
+        perl tweethour.pl mytwittername mytwitterpassword
+
+    or
+
+        perl tweethour.pl mytwittername mytwitterpassword BLING
+
+    tweethour will DONG like a church clock by default. If you provide the
+    third command line argument "BLING", it will BLING instead of DONG.
+
+PREREQUISITES
+
+    perl
+    Net::Twitter::Lite
+
+AUTHOR
+
+    Mirko Westermeier (mail@memowe.de)
+
