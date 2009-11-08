@@ -36,6 +36,7 @@ CHURCHES THAT DONG ON TWITTER
 * [@lambertikirche][1] (St. Lamberti, Münster, Germany)
 * [@frauenkirche_dd][2] (Frauenkirche Dresden, Germany)
 * [@koelner_dom][3] (Hohe Domkirche St. Peter und Maria, Köln, Germany)
+* [@paulusdom][4] (St. Paulus Dom, Münster, Germany)
 
 If you set up your church, please [let me know][churchsetup]!
 
@@ -63,6 +64,7 @@ Released under the MIT license, see MIT-LICENSE.
 [1]: http://twitter.com/lambertikirche
 [2]: http://twitter.com/frauenkirche_dd
 [3]: http://twitter.com/koelner_dom
+[4]: http://twitter.com/paulusdom
 
 [churchsetup]: http://twitter.com/?status=@memowe%20Hi,%20please%20add%20my%20church%20to%20the%20tweethour%20README%20page:
 [ntl]: http://search.cpan.org/dist/Net-Twitter-Lite/
