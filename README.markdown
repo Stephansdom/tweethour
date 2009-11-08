@@ -57,7 +57,7 @@ Released under the MIT license, see MIT-LICENSE.
 [4]: http://twitter.com/paulusdom
 
 [churchsetup]: http://twitter.com/?status=@memowe%20Hi,%20please%20add%20my%20church%20to%20your%20twitter%20church%20list:
-[churchlist]: http://twitter.com/memowe/kirchen_die_twittern/members
+[churchlist]: http://twitter.com/memowe/kirchen-die-twittern/members
 [ntl]: http://search.cpan.org/dist/Net-Twitter-Lite/
 [bbc]: http://twitter.com/big_ben_clock
 
