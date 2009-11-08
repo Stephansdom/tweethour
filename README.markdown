@@ -28,7 +28,7 @@ First, you have to create a twitter account like @lambertikirche, then clone [th
 
 Done.
 
-If you set up your church, please [let me know][churchsetup]. I'll add it to my twitter church list [@memowe/kirchen_die_twittern][churchlist].
+If you set up your church, please [let me know][churchsetup]. I'll add it to my twitter church list [@memowe/kirchen-die-twittern][churchlist].
 
 PREREQUISITES FOR tweethour.pl
 ------------------------------
